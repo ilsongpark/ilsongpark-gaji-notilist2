@@ -1,0 +1,10 @@
+GAJI\Notilist.class
+GAJI\AbstractEvent.class
+GAJI\NotilistViewHandler.class
+GAJI\Left.class
+GAJI\AbstractEvent$1.class
+GAJI\Sent.class
+GAJI\config\kafka\KafkaProcessor.class
+GAJI\NotilistApplication.class
+GAJI\NotilistRepository.class
+GAJI\PolicyHandler.class
